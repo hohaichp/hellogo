@@ -1,0 +1,290 @@
+{"level":"info","timestamp":"2022-02-14 23:39:01.001","caller":"D:/workspaces/goproject/hellogo/zaplog/zaplog.go:22","msg":"Succeed to init log","serviceName":"test"}
+{"level":"info","timestamp":"2022-02-14 23:39:18.883","caller":"D:/workspaces/goproject/hellogo/zaplog/zaplog.go:22","msg":"Succeed to init log","serviceName":"test"}
+{"level":"info","timestamp":"2022-02-14 23:40:11.489","caller":"D:/workspaces/goproject/hellogo/zaplog/zaplog.go:22","msg":"Succeed to init log","serviceName":"test"}
+{"level":"info","timestamp":"2022-02-14 23:40:31.291","caller":"D:/workspaces/goproject/hellogo/zaplog/zaplog.go:22","msg":"Succeed to init log","serviceName":"test"}
+{"level":"info","timestamp":"2022-02-14 23:40:46.869","caller":"D:/workspaces/goproject/hellogo/zaplog/zaplog.go:22","msg":"Succeed to init log","serviceName":"test"}
+{"level":"info","timestamp":"2022-02-14 23:41:13.753","caller":"D:/workspaces/goproject/hellogo/zaplog/zaplog.go:22","msg":"Succeed to init log","serviceName":"test"}
+{"level":"info","timestamp":"2022-02-14 23:42:20.193","caller":"D:/workspaces/goproject/hellogo/zaplog/zaplog.go:22","msg":"Succeed to init log","serviceName":"test"}
+{"level":"info","timestamp":"2022-02-14 23:43:15.775","caller":"D:/workspaces/goproject/hellogo/zaplog/zaplog.go:22","msg":"Succeed to init log","serviceName":"test"}
+{"level":"info","timestamp":"2022-02-14 23:43:31.826","caller":"D:/workspaces/goproject/hellogo/zaplog/zaplog.go:22","msg":"Succeed to init log","serviceName":"test"}
+{"level":"info","timestamp":"2022-02-14 23:44:01.465","caller":"D:/workspaces/goproject/hellogo/zaplog/zaplog.go:22","message":"Succeed to init log","serviceName":"test"}
+{"level":"info","timestamp":"2022-02-14 23:44:16.673","msg":"Succeed to init log","serviceName":"test"}
+{"msg":"Succeed to init log","serviceName":"test"}
+{"msg":"Succeed to init log"}
+Succeed to init log
+Succeed to init log	{"serviceName": "test"}
+2022-02-14 23:46:03.710	info	D:/workspaces/goproject/hellogo/zaplog/zaplog.go:22	Succeed to init log
+2022-02-14 23:46:47.524	info	Succeed to init log
+2022-02-14 23:47:06.668	info	Succeed to init log
+2022-02-14 23:47:20.200	Succeed to init log
+2022-02-14 23:48:34.718	Succeed to init log
+2022-02-14 23:48:51.790	INFO	Succeed to init log
+2022-02-14 23:49:29.058	[34mINFO[0m	Succeed to init log
+2022-02-14 23:49:59.067	[34mINFO[0m	D:/workspaces/goproject/hellogo/zaplog/zaplog.go:22	Succeed to init log
+2022-02-14 23:50:17.058	[34mINFO[0m	Succeed to init log
+2022-02-14 23:51:06.347	[34mINFO[0m	Succeed to init log
+2022-02-14 23:51:06.347	[35mDEBUG[0m	Succeed to init log
+2022-02-14 23:53:04.389	[34mINFO[0m	Succeed to init log
+2022-02-14 23:53:04.389	[35mDEBUG[0m	Succeed to init log
+2022-02-14 23:53:04.389	[33mWARN[0m	Succeed to init log
+caihp/hellogo/zaplog.(*Logger).Warnf
+	D:/workspaces/goproject/hellogo/zaplog/zaplog.go:38
+main.main
+	D:/workspaces/goproject/hellogo/hello.go:27
+runtime.main
+	D:/Program Files/Go/src/runtime/proc.go:225
+2022-02-14 23:53:04.389	[31mERROR[0m	Succeed to init log
+caihp/hellogo/zaplog.(*Logger).Errorf
+	D:/workspaces/goproject/hellogo/zaplog/zaplog.go:46
+main.main
+	D:/workspaces/goproject/hellogo/hello.go:28
+runtime.main
+	D:/Program Files/Go/src/runtime/proc.go:225
+2022-02-14 23:54:06.778	[34mINFO[0m	Succeed to init log
+2022-02-14 23:54:06.778	[35mDEBUG[0m	Succeed to init log
+2022-02-14 23:54:06.778	[31mERROR[0m	Succeed to init log
+caihp/hellogo/zaplog.(*Logger).Errorf
+	D:/workspaces/goproject/hellogo/zaplog/zaplog.go:46
+main.main
+	D:/workspaces/goproject/hellogo/hello.go:28
+runtime.main
+	D:/Program Files/Go/src/runtime/proc.go:225
+2022-02-14 23:54:23.394	[34mINFO[0m	Succeed to init log
+2022-02-14 23:54:23.394	[35mDEBUG[0m	Succeed to init log
+2022-02-14 23:54:23.394	[33mWARN[0m	Succeed to init log
+caihp/hellogo/zaplog.(*Logger).Warnf
+	D:/workspaces/goproject/hellogo/zaplog/zaplog.go:38
+main.main
+	D:/workspaces/goproject/hellogo/hello.go:27
+runtime.main
+	D:/Program Files/Go/src/runtime/proc.go:225
+2022-02-14 23:54:35.341	[34mINFO[0m	Succeed to init log
+2022-02-14 23:54:35.341	[35mDEBUG[0m	Succeed to init log
+2022-02-14 23:54:35.341	[33mWARN[0m	Succeed to init log
+caihp/hellogo/zaplog.(*Logger).Warnf
+	D:/workspaces/goproject/hellogo/zaplog/zaplog.go:38
+main.main
+	D:/workspaces/goproject/hellogo/hello.go:27
+runtime.main
+	D:/Program Files/Go/src/runtime/proc.go:225
+2022-02-14 23:54:35.341	[31mERROR[0m	Succeed to init log
+caihp/hellogo/zaplog.(*Logger).Errorf
+	D:/workspaces/goproject/hellogo/zaplog/zaplog.go:46
+main.main
+	D:/workspaces/goproject/hellogo/hello.go:28
+runtime.main
+	D:/Program Files/Go/src/runtime/proc.go:225
+2022-02-14 23:54:54.903	[34mINFO[0m	Succeed to init log
+2022-02-14 23:54:54.903	[35mDEBUG[0m	Succeed to init log
+2022-02-14 23:56:28.305	[34mINFO[0m	Succeed to init log
+2022-02-14 23:56:28.306	[35mDEBUG[0m	Succeed to init log
+2022-02-14 23:56:48.617	[34mINFO[0m	Succeed to init log
+2022-02-14 23:56:48.617	[35mDEBUG[0m	Succeed to init log
+2022-02-14 23:58:40.477	[34mINFO[0m	Succeed to init log
+2022-02-14 23:58:40.478	[35mDEBUG[0m	Succeed to init log
+2022-02-14 23:59:17.879	[34mINFO[0m	Succeed to init log
+2022-02-14 23:59:17.879	[35mDEBUG[0m	Succeed to init log
+2022-02-14 23:59:57.441	[34mINFO[0m	Succeed to init log
+2022-02-14 23:59:57.441	[35mDEBUG[0m	Succeed to init log
+2022-02-14 23:59:57.441	[34mINFO[0m	[32mSucceed to init log[0m
+2022-02-15 00:00:25.081	[34mINFO[0m	Succeed to init log
+2022-02-15 00:00:25.082	[35mDEBUG[0m	Succeed to init log
+2022-02-15 00:00:25.082	[34mINFO[0m	[32mSucceed to init log[0m
+2022-02-15 00:02:36.632	[34mINFO[0m	Succeed to init log
+2022-02-15 00:02:36.632	[35mDEBUG[0m	Succeed to init log
+2022-02-15 00:02:36.632	[34mINFO[0m	[32mSucceed to init log[0m
+2022-02-15 00:05:23.295	[34mINFO[0m	Succeed to init log
+2022-02-15 00:05:23.296	[35mDEBUG[0m	Succeed to init log
+2022-02-15 00:05:23.296	[34mINFO[0m	[32mSucceed to init log[0m
+2022-02-15 00:06:02.326	[34mINFO[0m	Succeed to init log
+2022-02-15 00:06:02.326	[35mDEBUG[0m	Succeed to init log
+2022-02-15 00:06:02.326	[34mINFO[0m	[32mSucceed to init log[0m
+2022-02-15 00:07:09.927	[34mINFO[0m	Succeed to init log
+2022-02-15 00:07:09.927	[35mDEBUG[0m	Succeed to init log
+2022-02-15 00:10:01.955	[34mINFO[0m	Succeed to init log
+2022-02-15 00:10:01.955	[35mDEBUG[0m	Succeed to init log
+2022-02-15 00:10:01.955	[34mINFO[0m	[32mSucceed to init log[0m
+2022-02-19 14:35:32.024	[34mINFO[0m	Succeed to init log
+2022-02-19 14:35:32.024	[35mDEBUG[0m	Succeed to init log
+2022-02-19 14:35:32.024	[34mINFO[0m	[32mSucceed to init log[0m
+2022-02-19 16:21:39.136	[34mINFO[0m	Succeed to init log
+2022-02-19 16:21:39.136	[35mDEBUG[0m	Succeed to init log
+2022-02-19 16:21:39.136	[34mINFO[0m	[32mSucceed to init log[0m
+2022-02-19 16:22:41.536	[34mINFO[0m	Succeed to init log
+2022-02-19 16:22:41.536	[35mDEBUG[0m	Succeed to init log
+2022-02-19 16:22:41.536	[34mINFO[0m	[32mSucceed to init log[0m
+2022-02-19 16:23:28.917	[34mINFO[0m	Succeed to init log
+2022-02-19 16:23:28.918	[35mDEBUG[0m	Succeed to init log
+2022-02-19 16:23:28.918	[34mINFO[0m	[32mSucceed to init log[0m
+2022-02-19 16:29:51.638	[34mINFO[0m	Succeed to init log
+2022-02-19 16:29:51.638	[35mDEBUG[0m	Succeed to init log
+2022-02-19 16:29:51.638	[34mINFO[0m	[32mSucceed to init log[0m
+2022-02-19 16:30:53.894	[34mINFO[0m	Succeed to init log
+2022-02-19 16:30:53.894	[35mDEBUG[0m	Succeed to init log
+2022-02-19 16:30:53.894	[34mINFO[0m	[32mSucceed to init log[0m
+2022-02-19 16:32:42.396	[34mINFO[0m	Succeed to init log
+2022-02-19 16:32:42.396	[35mDEBUG[0m	Succeed to init log
+2022-02-19 16:32:42.396	[34mINFO[0m	[32mSucceed to init log[0m
+2022-02-19 16:35:12.427	[34mINFO[0m	Succeed to init log
+2022-02-19 16:35:12.427	[35mDEBUG[0m	Succeed to init log
+2022-02-19 16:35:12.427	[34mINFO[0m	[32mSucceed to init log[0m
+2022-02-19 16:36:24.008	[34mINFO[0m	Succeed to init log
+2022-02-19 16:36:24.008	[35mDEBUG[0m	Succeed to init log
+2022-02-19 16:36:24.008	[34mINFO[0m	[32mSucceed to init log[0m
+2022-02-19 16:39:24.551	[34mINFO[0m	Succeed to init log
+2022-02-19 16:39:24.552	[35mDEBUG[0m	Succeed to init log
+2022-02-19 16:39:24.552	[34mINFO[0m	[32mSucceed to init log[0m
+2022-02-19 16:39:46.373	[34mINFO[0m	Succeed to init log
+2022-02-19 16:39:46.373	[35mDEBUG[0m	Succeed to init log
+2022-02-19 16:39:46.373	[34mINFO[0m	[32mSucceed to init log[0m
+2022-02-19 16:46:21.289	[34mINFO[0m	Succeed to init log
+2022-02-19 16:46:21.289	[35mDEBUG[0m	Succeed to init log
+2022-02-19 16:46:21.289	[34mINFO[0m	[32mSucceed to init log[0m
+2022-02-19 17:02:48.825	[34mINFO[0m	Succeed to init log
+2022-02-19 17:02:48.826	[35mDEBUG[0m	Succeed to init log
+2022-02-19 17:02:48.826	[34mINFO[0m	[32mSucceed to init log[0m
+2022-02-19 17:06:59.249	[34mINFO[0m	Succeed to init log
+2022-02-19 17:06:59.249	[35mDEBUG[0m	Succeed to init log
+2022-02-19 17:06:59.249	[34mINFO[0m	[32mSucceed to init log[0m
+2022-02-19 17:07:28.601	[34mINFO[0m	Succeed to init log
+2022-02-19 17:07:28.601	[35mDEBUG[0m	Succeed to init log
+2022-02-19 17:07:28.601	[34mINFO[0m	[32mSucceed to init log[0m
+2022-02-19 17:14:06.513	[34mINFO[0m	Succeed to init log
+2022-02-19 17:14:06.513	[35mDEBUG[0m	Succeed to init log
+2022-02-19 17:14:06.513	[34mINFO[0m	[32mSucceed to init log[0m
+2022-02-19 18:04:24.072	[34mINFO[0m	Succeed to init log
+2022-02-19 18:04:24.072	[35mDEBUG[0m	Succeed to init log
+2022-02-19 18:04:24.072	[34mINFO[0m	[32mSucceed to init log[0m
+2022-02-19 18:17:19.675	[34mINFO[0m	Succeed to init log
+2022-02-19 18:17:19.675	[35mDEBUG[0m	Succeed to init log
+2022-02-19 18:17:19.675	[34mINFO[0m	[32mSucceed to init log[0m
+2022-02-19 18:17:43.382	[34mINFO[0m	Succeed to init log
+2022-02-19 18:17:43.382	[35mDEBUG[0m	Succeed to init log
+2022-02-19 18:17:43.382	[34mINFO[0m	[32mSucceed to init log[0m
+2022-02-19 18:36:28.841	[34mINFO[0m	Succeed to init log
+2022-02-19 18:36:28.841	[35mDEBUG[0m	Succeed to init log
+2022-02-19 18:36:28.841	[34mINFO[0m	[32mSucceed to init log[0m
+2022-02-19 18:43:32.853	[34mINFO[0m	Succeed to init log
+2022-02-19 18:43:32.854	[35mDEBUG[0m	Succeed to init log
+2022-02-19 18:43:32.854	[34mINFO[0m	[32mSucceed to init log[0m
+2022-02-19 18:43:38.358	[34mINFO[0m	Succeed to init log
+2022-02-19 18:43:38.358	[35mDEBUG[0m	Succeed to init log
+2022-02-19 18:43:38.358	[34mINFO[0m	[32mSucceed to init log[0m
+2022-02-19 19:24:07.121	[34mINFO[0m	Succeed to init log
+2022-02-19 19:24:07.121	[35mDEBUG[0m	Succeed to init log
+2022-02-19 19:24:07.121	[34mINFO[0m	[32mSucceed to init log[0m
+2022-02-19 19:25:19.254	[34mINFO[0m	Succeed to init log
+2022-02-19 19:25:19.254	[35mDEBUG[0m	Succeed to init log
+2022-02-19 19:25:19.254	[34mINFO[0m	[32mSucceed to init log[0m
+2022-02-19 19:26:41.984	[34mINFO[0m	Succeed to init log
+2022-02-19 19:26:41.985	[35mDEBUG[0m	Succeed to init log
+2022-02-19 19:26:41.985	[34mINFO[0m	[32mSucceed to init log[0m
+2022-02-19 19:28:04.065	[34mINFO[0m	Succeed to init log
+2022-02-19 19:28:04.065	[35mDEBUG[0m	Succeed to init log
+2022-02-19 19:28:04.065	[34mINFO[0m	[32mSucceed to init log[0m
+2022-02-19 19:28:32.250	[34mINFO[0m	Succeed to init log
+2022-02-19 19:28:32.251	[35mDEBUG[0m	Succeed to init log
+2022-02-19 19:28:32.251	[34mINFO[0m	[32mSucceed to init log[0m
+2022-02-19 19:32:17.670	[34mINFO[0m	Succeed to init log
+2022-02-19 19:32:17.670	[35mDEBUG[0m	Succeed to init log
+2022-02-19 19:32:17.670	[34mINFO[0m	[32mSucceed to init log[0m
+2022-02-19 19:34:14.339	[34mINFO[0m	Succeed to init log
+2022-02-19 19:34:14.339	[35mDEBUG[0m	Succeed to init log
+2022-02-19 19:34:14.339	[34mINFO[0m	[32mSucceed to init log[0m
+2022-02-19 19:37:25.875	[34mINFO[0m	Succeed to init log
+2022-02-19 19:37:25.875	[35mDEBUG[0m	Succeed to init log
+2022-02-19 19:37:25.875	[34mINFO[0m	[32mSucceed to init log[0m
+2022-02-19 19:37:25.886	[34mINFO[0m	result = Hello,czy2
+2022-02-19 19:40:05.191	[34mINFO[0m	Succeed to init log
+2022-02-19 19:40:05.191	[35mDEBUG[0m	Succeed to init log
+2022-02-19 19:40:05.191	[34mINFO[0m	[32mSucceed to init log[0m
+2022-02-19 19:40:05.201	[34mINFO[0m	result = Hello,czy2
+2022-02-19 19:57:34.421	[34mINFO[0m	Succeed to init log
+2022-02-19 19:57:34.422	[35mDEBUG[0m	Succeed to init log
+2022-02-19 19:57:34.422	[34mINFO[0m	[32mSucceed to init log[0m
+2022-02-19 19:57:34.432	[34mINFO[0m	result = Hello,czy1
+2022-02-19 19:58:08.828	[34mINFO[0m	Succeed to init log
+2022-02-19 19:58:08.828	[35mDEBUG[0m	Succeed to init log
+2022-02-19 19:58:08.828	[34mINFO[0m	[32mSucceed to init log[0m
+2022-02-19 19:58:08.838	[34mINFO[0m	result = Hello,czy4
+2022-02-19 19:58:40.256	[34mINFO[0m	Succeed to init log
+2022-02-19 19:58:40.256	[35mDEBUG[0m	Succeed to init log
+2022-02-19 19:58:40.256	[34mINFO[0m	[32mSucceed to init log[0m
+2022-02-19 19:58:40.266	[34mINFO[0m	result = Hello,czy3
+2022-02-19 20:01:09.608	[34mINFO[0m	Succeed to init log
+2022-02-19 20:01:09.608	[35mDEBUG[0m	Succeed to init log
+2022-02-19 20:01:09.608	[34mINFO[0m	[32mSucceed to init log[0m
+2022-02-19 20:01:09.618	[34mINFO[0m	result = Hello,czy1
+2022-02-19 20:01:09.619	[34mINFO[0m	result = Hello,czy2
+2022-02-19 20:05:30.894	[34mINFO[0m	Succeed to init log
+2022-02-19 20:05:30.894	[35mDEBUG[0m	Succeed to init log
+2022-02-19 20:05:33.257	[31mERROR[0m	could't get reply: Post "http://localhost:8080/HelloToYou/Svc": dial tcp [::1]:8080: connectex: No connection could be made because the target machine actively refused it.
+caihp/hellogo/zaplog.(*Logger).Errorf
+	D:/workspaces/goproject/hellogo/zaplog/zaplog.go:50
+main.WcfExampleWithOptions
+	D:/workspaces/goproject/hellogo/hello.go:69
+main.main
+	D:/workspaces/goproject/hellogo/hello.go:41
+runtime.main
+	D:/Program Files/Go/src/runtime/proc.go:225
+2022-02-19 20:05:44.216	[34mINFO[0m	Succeed to init log
+2022-02-19 20:05:44.216	[35mDEBUG[0m	Succeed to init log
+2022-02-19 20:05:44.246	[34mINFO[0m	result = Hello,czy2
+2022-02-19 20:35:47.067	[34mINFO[0m	Succeed to init log
+2022-02-19 20:35:47.067	[35mDEBUG[0m	Succeed to init log
+2022-02-19 20:35:47.076	[34mINFO[0m	result = Hello,czy2
+2022-02-19 20:37:15.753	INFO	Succeed to init log
+2022-02-19 20:37:15.753	DEBUG	Succeed to init log
+2022-02-19 20:37:15.763	INFO	result = Hello,czy2
+2022-02-19 20:42:59.223	INFO	Succeed to init log
+2022-02-19 20:42:59.223	DEBUG	Succeed to init log
+2022-02-19 20:43:46.782	INFO	Succeed to init log
+2022-02-19 20:43:46.782	DEBUG	Succeed to init log
+2022-02-19 20:43:48.763	INFO	input = dsadas
+2022-02-19 20:44:31.400	INFO	Succeed to init log
+2022-02-19 20:44:31.400	DEBUG	Succeed to init log
+2022-02-19 20:44:33.874	INFO	input = dasfas
+2022-02-19 20:44:33.886	INFO	result = Hello,dasfas
+2022-02-19 20:44:34.995	INFO	input = fsafdsa
+2022-02-19 20:44:34.998	INFO	result = Hello,fsafdsa
+2022-02-19 20:44:36.095	INFO	input = fghdfhfd
+2022-02-19 20:44:36.097	INFO	result = Hello,fghdfhfd
+2022-02-19 20:44:36.775	INFO	input = gdf
+2022-02-19 20:44:36.778	INFO	result = Hello,gdf
+2022-02-19 20:44:39.292	INFO	input = exit
+2022-02-19 20:45:23.378	INFO	Succeed to init log
+2022-02-19 20:45:23.378	DEBUG	Succeed to init log
+2022-02-19 20:48:37.863	INFO	Succeed to init log
+2022-02-19 20:48:37.863	DEBUG	Succeed to init log
+2022-02-19 20:48:54.922	INFO	Succeed to init log
+2022-02-19 20:48:54.922	DEBUG	Succeed to init log
+2022-02-19 20:48:57.053	INFO	result = Hello,sdad
+2022-02-19 20:48:58.394	INFO	result = Hello,fdfas
+2022-02-19 20:48:59.453	INFO	result = Hello,dasd
+2022-02-19 20:53:43.697	INFO	Succeed to init log
+2022-02-19 20:53:43.697	DEBUG	Succeed to init log
+2022-02-19 20:54:58.073	INFO	Succeed to init log
+2022-02-19 20:54:58.073	DEBUG	Succeed to init log
+2022-02-19 20:55:00.792	INFO	result = Hello,dsaf
+2022-02-19 20:55:01.524	INFO	result = Hello,dsfds
+2022-02-19 20:55:02.329	INFO	result = Hello,gdfs
+2022-02-19 20:55:02.473	INFO	result = Hello,
+2022-02-19 20:55:02.661	INFO	result = Hello,f
+2022-02-19 20:55:03.365	INFO	result = Hello,fffff
+2022-02-19 20:55:03.518	INFO	result = Hello,
+2022-02-19 20:55:04.337	INFO	result = Hello,
+2022-02-19 21:05:46.674	INFO	Succeed to init log
+2022-02-19 21:05:46.674	DEBUG	Succeed to init log
+2022-02-19 21:11:00.447	INFO	Succeed to init log
+2022-02-19 21:11:00.447	DEBUG	Succeed to init log
+2022-02-19 21:13:51.685	FATAL	EOF
+caihp/hellogo/zaplog.(*Logger).Fatalf
+	D:/workspaces/goproject/hellogo/zaplog/zaplog.go:58
+main.getInputString
+	D:/workspaces/goproject/hellogo/hello.go:82
+main.WcfExampleWithOptions
+	D:/workspaces/goproject/hellogo/hello.go:69
+main.main
+	D:/workspaces/goproject/hellogo/hello.go:43
+runtime.main
+	D:/Program Files/Go/src/runtime/proc.go:225
